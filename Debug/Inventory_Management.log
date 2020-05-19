@@ -1,0 +1,7 @@
+﻿  Inventory.cpp
+  RS_Push.cpp
+  Refills.cpp
+  Wood_Mops.cpp
+  Generating Code...
+C:\Users\hyeba\source\repos\Inventory_Management\Inventory.cpp(90,24): warning C4805:  '==': unsafe mix of type 'int' and type 'bool' in operation
+  Inventory_Management.vcxproj -> C:\Users\hyeba\source\repos\Inventory_Management\Debug\Inventory_Management.exe
